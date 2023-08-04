@@ -31,7 +31,7 @@ the similarity scores could be biased based on the writing style and quality of 
 These aforementioned limitations result in strange recommendations sometimes; for example, someone who likes Christopher Nolan's "Interstellar" might not necessarily like Star Wars, for example.
 While both contain sci-fi themes, plot structure, pacing, and tone are vastly different.
 
-# Planend future improvements:
+# Planned future improvements:
 - Take multiple films as input
 - Account for IMDb user ratings to tighten up similarity assessment
 - Implement negative filtering (if I don't like a film, I want to see fewer films like it.)
